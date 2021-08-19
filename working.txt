@@ -5,3 +5,6 @@ Only copy the " genres_original " folder inside the Data section after unzipping
 Remove the "jazz.00054.wav " file as the file is corrupted. 
 
 The other items are not needed for our project so you can discard them. Only have the 10 folders which are named after the different genres inside the main folder genres_original. 
+
+you need to install all the dependencies in the requirements.txt file 
+must have ananconda navigator and Python installed into your device.
