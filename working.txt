@@ -4,4 +4,4 @@ https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
 Only copy the " genres_original " folder inside the Data section after unzipping the file. 
 Remove the "jazz.00054.wav " file as the file is corrupted. 
 
-The other folders are not needed for our project so you can discard them. 
+The other items are not needed for our project so you can discard them. Only have the 10 folders which are named after the different genres inside the main folder genres_original. 
