@@ -1,10 +1,7 @@
-To download the dataset go through the link- 
+To download the dataset, please go through the link- 
 https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
+After extracting the zip file from the given link, only the folders with the music genres are needed, the other files with the extension .mf are not required and should be deleted.
+ALso, from the Jazz folder, the file "jazz0054.wav" should be deleted, as it has some corrupted hexadecimal values which cannot be interpreted by the system.
+The dependencies inside the "requirements.txt" should be installed using pip install.
+And finally, anaconda navigator along with Python is required for this code to run.
 
-Only copy the " genres_original " folder inside the Data section after unzipping the file. 
-Remove the "jazz.00054.wav " file as the file is corrupted. 
-
-The other items are not needed for our project so you can discard them. Only have the 10 folders which are named after the different genres inside the main folder genres_original. 
-
-you need to install all the dependencies in the requirements.txt file 
-must have ananconda navigator and Python installed into your device.
